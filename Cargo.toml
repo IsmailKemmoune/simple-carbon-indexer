@@ -1,0 +1,11 @@
+[package]
+name = "simple-carbon-indexer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# Utilities
+thiserror = "2.0.16"
+
+# Config
+dotenvy = "0.15.7"
